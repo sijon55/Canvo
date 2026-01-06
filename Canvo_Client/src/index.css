@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+html {
+  scroll-behavior: smooth;
+}
+.cs>div:first-child , .cs>div:last-child {
+  margin-top: 70px !important;
+}
